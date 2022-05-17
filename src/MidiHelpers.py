@@ -92,3 +92,54 @@ class MidiHelpers:
                     temp_list.append(ts)
 
         return temp_list 
+
+    """
+        Get the resultant of all conflicting keys 
+    """
+    def resolve_conflicts(self, list_notes, list_velocities):
+
+        # Weighed Average Method
+        resultant_note = 0.0 
+        sum_vel = 0.0
+
+        # Compute the resultant note with the weights as velocities
+        assert len(list_notes) == len(list_velocities)
+
+        for note,vel in zip(list_notes, list_velocities):
+            resultant_note += note*vel 
+            sum_vel += vel 
+            
+        # Round off the nearest note 
+        resultant_note /= sum_vel
+        resultant_note = round(resultant_note, ndigits=None)
+        
+
+        # Check for edge cases 
+        if resultant_note < 27:
+            return 27 
+        if resultant_note > 127:
+            return 127 
+            
+        return resultant_note
+
+    """
+        Get the List of notes for each unique timestamps
+    """
+    def get_notes_list(self):
+        
+        # Get the points list
+        l = (self.get_points_list_note_on())
+
+        # Get all unique timestamps
+        time_set = set([i.time for i in l])
+
+        combined_list = []
+
+        # Resolve conflicts at each time step
+        for time in time_set:
+            filtered_list = [i for i in l if i.time == time]
+            ln = [i.note for i in filtered_list]
+            lv = [i.velocity for i in filtered_list]
+            combined_list.append(self.resolve_conflicts(ln,lv))
+
+        return combined_list
