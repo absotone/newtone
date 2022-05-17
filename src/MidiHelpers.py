@@ -1,5 +1,7 @@
+from langcodes import TERRITORY_REPLACEMENTS
 from mido import MidiFile
 import sys 
+import librosa 
 
 """
     Data Structure to store temporal data
@@ -143,3 +145,26 @@ class MidiHelpers:
             combined_list.append(self.resolve_conflicts(ln,lv))
 
         return combined_list
+
+    """
+        Covert Midi to Note
+        @Future: Add key information 
+    """
+    @staticmethod 
+    def midi_to_str(list_notes):
+
+        try:
+            return librosa.midi_to_note(list_notes)
+        except Exception as e:
+            print(f"Error in converting MIDI to String: {e}")
+
+    """
+        Convert Note to Midi
+    """
+    @staticmethod
+    def str_to_midi(list_str):
+
+        try:
+            return librosa.note_to_midi(list_str)
+        except Exception as e:
+            print(f"Error in converting String to MIDI: {e}")

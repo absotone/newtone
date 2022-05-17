@@ -1,0 +1,177 @@
+,path,notes_list,str_notes
+0,../dataset/schubert/schub_d960_3.mid,"[76, 73, 68, 74, 73, 73, 79, 66, 69, 74, 70, 77]",E5 C♯5 G♯4 D5 C♯5 C♯5 G5 F♯4 A4 D5 A♯4 F5
+1,../dataset/schubert/schub_d760_4.mid,"[55, 80, 73, 78, 63, 78, 64, 79, 66]",G3 G♯5 C♯5 F♯5 D♯4 F♯5 E4 G5 F♯4
+2,../dataset/schubert/schubert_D935_3.mid,"[76, 74, 75, 70, 69, 71, 85, 80, 67, 72, 54, 79, 90, 67, 62, 62, 65, 75, 74, 60, 53]",E5 D5 D♯5 A♯4 A4 B4 C♯6 G♯5 G4 C5 F♯3 G5 F♯6 G4 D4 D4 F4 D♯5 D5 C4 F3
+3,../dataset/schubert/schub_d960_4.mid,"[75, 81, 70, 77, 72, 72, 78, 74, 72, 82, 80, 74, 71, 66, 86, 72, 69, 79]",D♯5 A5 A♯4 F5 C5 C5 F♯5 D5 C5 A♯5 G♯5 D5 B4 F♯4 D6 C5 A4 G5
+4,../dataset/schubert/schumm-6.mid,"[72, 69, 67, 65, 56, 64, 61, 64, 72]",C5 A4 G4 F4 G♯3 E4 C♯4 E4 C5
+5,../dataset/schubert/schumm-1.mid,"[69, 67, 69, 61, 79, 61, 57, 70, 70, 79, 76, 81, 63, 67]",A4 G4 A4 C♯4 G5 C♯4 A3 A♯4 A♯4 G5 E5 A5 D♯4 G4
+6,../dataset/schubert/schumm-5.mid,"[74, 65, 68, 78, 70, 69, 76, 80, 66, 75, 65, 73, 70, 73]",D5 F4 G♯4 F♯5 A♯4 A4 E5 G♯5 F♯4 D♯5 F4 C♯5 A♯4 C♯5
+7,../dataset/schubert/schu_143_3.mid,"[75, 69, 73, 72, 68, 70, 71, 70, 71, 76, 76, 79, 74, 77, 74]",D♯5 A4 C♯5 C5 G♯4 A♯4 B4 A♯4 B4 E5 E5 G5 D5 F5 D5
+8,../dataset/schubert/schubert_D935_1.mid,"[71, 71, 65, 61, 75, 56, 79, 73, 67, 57, 75, 62, 70, 60, 59, 72]",B4 B4 F4 C♯4 D♯5 G♯3 G5 C♯5 G4 A3 D♯5 D4 A♯4 C4 B3 C5
+9,../dataset/schubert/schub_d960_2.mid,"[65, 68, 64, 63, 73, 69, 58, 69, 62, 78, 73, 72, 67, 59, 79, 63, 68, 58]",F4 G♯4 E4 D♯4 C♯5 A4 A♯3 A4 D4 F♯5 C♯5 C5 G4 B3 G5 D♯4 G♯4 A♯3
+10,../dataset/schubert/schumm-2.mid,"[68, 70, 69, 69, 68, 66, 73, 74, 77]",G♯4 A♯4 A4 A4 G♯4 F♯4 C♯5 D5 F5
+11,../dataset/schubert/schuim-1.mid,"[71, 68, 70, 76, 71, 67, 59, 72, 69, 66, 72, 66, 69, 68, 64, 67, 65, 71]",B4 G♯4 A♯4 E5 B4 G4 B3 C5 A4 F♯4 C5 F♯4 A4 G♯4 E4 G4 F4 B4
+12,../dataset/schubert/schuim-4.mid,"[75, 64, 60, 86, 83, 81, 63, 74, 87, 72, 76]",D♯5 E4 C4 D6 B5 A5 D♯4 D5 D♯6 C5 E5
+13,../dataset/schubert/schumm-3.mid,"[72, 78, 70, 69, 74, 68, 72, 72]",C5 F♯5 A♯4 A4 D5 G♯4 C5 C5
+14,../dataset/schubert/schub_d760_2.mid,"[71, 75, 62, 71, 61, 75, 59, 61, 72, 63, 76, 77, 80, 56, 65, 64]",B4 D♯5 D4 B4 C♯4 D♯5 B3 C♯4 C5 D♯4 E5 F5 G♯5 G♯3 F4 E4
+15,../dataset/schubert/schu_143_2.mid,"[74, 57, 71, 69, 68, 79, 65, 65, 64, 82, 60]",D5 A3 B4 A4 G♯4 G5 F4 F4 E4 A♯5 C4
+16,../dataset/schubert/schumm-4.mid,"[68, 67, 60, 65, 68, 67, 59, 67, 65]",G♯4 G4 C4 F4 G♯4 G4 B3 G4 F4
+17,../dataset/schubert/schub_d760_3.mid,"[75, 68, 70, 63, 72, 79, 60, 79, 85, 61, 73, 71, 67, 75, 71, 69, 74]",D♯5 G♯4 A♯4 D♯4 C5 G5 C4 G5 C♯6 C♯4 C♯5 B4 G4 D♯5 B4 A4 D5
+18,../dataset/schubert/schubert_D850_1.mid,"[72, 78, 78, 78, 77, 60, 76, 72, 58, 66, 68, 71, 72, 61, 52, 60, 64, 66, 73, 73, 69, 65]",C5 F♯5 F♯5 F♯5 F5 C4 E5 C5 A♯3 F♯4 G♯4 B4 C5 C♯4 E3 C4 E4 F♯4 C♯5 C♯5 A4 F4
+19,../dataset/schubert/schubert_D850_3.mid,"[72, 75, 74, 70, 65, 68, 67, 66, 73, 67, 69, 71, 67, 68, 67, 66, 72, 73, 62, 71, 67, 70]",C5 D♯5 D5 A♯4 F4 G♯4 G4 F♯4 C♯5 G4 A4 B4 G4 G♯4 G4 F♯4 C5 C♯5 D4 B4 G4 A♯4
+20,../dataset/chopin/chpn_op35_1.mid,"[73, 73, 73, 60, 62, 58, 70, 73, 65, 53, 75, 71, 73, 53, 68, 67, 67, 67, 80, 74]",C♯5 C♯5 C♯5 C4 D4 A♯3 A♯4 C♯5 F4 F3 D♯5 B4 C♯5 F3 G♯4 G4 G4 G4 G♯5 D5
+21,../dataset/chopin/chpn-p16.mid,"[70, 63, 77, 82, 77, 63, 70, 69, 78]",A♯4 D♯4 F5 A♯5 F5 D♯4 A♯4 A4 F♯5
+22,../dataset/chopin/chpn_op27_2.mid,"[78, 77, 74, 80, 75, 92, 74, 75, 75, 77, 87, 74, 75, 88, 77, 79, 73, 76, 71, 74, 78, 77]",F♯5 F5 D5 G♯5 D♯5 G♯6 D5 D♯5 D♯5 F5 D♯6 D5 D♯5 E6 F5 G5 C♯5 E5 B4 D5 F♯5 F5
+23,../dataset/chopin/chpn_op53.mid,"[74, 58, 55, 56, 75, 60, 68, 56, 65, 60, 64, 63, 66, 71, 68]",D5 A♯3 G3 G♯3 D♯5 C4 G♯4 G♯3 F4 C4 E4 D♯4 F♯4 B4 G♯4
+24,../dataset/chopin/chpn_op25_e1.mid,"[75, 78, 68, 60, 70, 92, 72, 68]",D♯5 F♯5 G♯4 C4 A♯4 G♯6 C5 G♯4
+25,../dataset/chopin/chpn-p21.mid,"[72, 76, 74, 66, 67, 60, 67, 77, 75, 75, 69, 72, 74]",C5 E5 D5 F♯4 G4 C4 G4 F5 D♯5 D♯5 A4 C5 D5
+26,../dataset/chopin/chpn-p18.mid,"[69, 60, 43, 64, 71, 70, 69, 43, 48, 61, 70, 62]",A4 C4 G2 E4 B4 A♯4 A4 G2 C3 C♯4 A♯4 D4
+27,../dataset/chopin/chp_op18.mid,"[75, 63, 77, 76, 77, 79, 73, 91, 77, 83, 73, 73, 74, 73, 79, 84, 77, 79, 74, 75, 72]",D♯5 D♯4 F5 E5 F5 G5 C♯5 G6 F5 B5 C♯5 C♯5 D5 C♯5 G5 C6 F5 G5 D5 D♯5 C5
+28,../dataset/chopin/chpn-p24.mid,"[69, 72, 78, 64, 60, 65, 98, 86, 57, 66, 69, 62, 46, 65, 66, 68, 65]",A4 C5 F♯5 E4 C4 F4 D7 D6 A3 F♯4 A4 D4 A♯2 F4 F♯4 G♯4 F4
+29,../dataset/chopin/chpn_op35_3.mid,"[69, 62, 73, 75, 73, 72, 73, 73, 72, 80, 69]",A4 D4 C♯5 D♯5 C♯5 C5 C♯5 C♯5 C5 G♯5 A4
+30,../dataset/chopin/chpn_op10_e01.mid,"[64, 78, 62, 65, 63, 64, 66, 64, 64, 56]",E4 F♯5 D4 F4 D♯4 E4 F♯4 E4 E4 G♯3
+31,../dataset/chopin/chpn_op7_1.mid,"[76, 77, 77, 77, 79, 77, 76, 69]",E5 F5 F5 F5 G5 F5 E5 A4
+32,../dataset/chopin/chpn-p13.mid,"[67, 71, 78, 73, 58, 66, 63, 73, 66]",G4 B4 F♯5 C♯5 A♯3 F♯4 D♯4 C♯5 F♯4
+33,../dataset/chopin/chpn_op66.mid,"[74, 68, 69, 71, 79, 93, 70, 59, 82, 74, 92, 68, 67]",D5 G♯4 A4 B4 G5 A6 A♯4 B3 A♯5 D5 G♯6 G♯4 G4
+34,../dataset/chopin/chpn-p2.mid,"[64, 62, 71, 69, 62, 66, 62, 59, 48, 55]",E4 D4 B4 A4 D4 F♯4 D4 B3 C3 G3
+35,../dataset/chopin/chpn_op7_2.mid,"[76, 71, 68, 76, 75, 74, 64, 70, 71]",E5 B4 G♯4 E5 D♯5 D5 E4 A♯4 B4
+36,../dataset/chopin/chpn_op27_1.mid,"[71, 73, 73, 69, 67, 69, 69, 73, 73, 65]",B4 C♯5 C♯5 A4 G4 A4 A4 C♯5 C♯5 F4
+37,../dataset/chopin/chpn-p22.mid,"[70, 72, 70, 77, 60, 75, 67, 72, 55, 63]",A♯4 C5 A♯4 F5 C4 D♯5 G4 C5 G3 D♯4
+38,../dataset/chopin/chpn-p3.mid,"[62, 74, 69, 59, 59, 76, 81, 68, 71, 70, 72, 59, 68]",D4 D5 A4 B3 B3 E5 A5 G♯4 B4 A♯4 C5 B3 G♯4
+39,../dataset/chopin/chpn_op33_4.mid,"[78, 69, 67, 61, 61, 76, 61, 78, 61, 67, 73, 70, 64]",F♯5 A4 G4 C♯4 C♯4 E5 C♯4 F♯5 C♯4 G4 C♯5 A♯4 E4
+40,../dataset/granados/gra_esp_3.mid,"[73, 62, 62, 73, 62, 66, 65, 62, 64, 76, 70, 71, 64, 65, 65]",C♯5 D4 D4 C♯5 D4 F♯4 F4 D4 E4 E5 A♯4 B4 E4 F4 F4
+41,../dataset/grieg/grieg_berceuse.mid,"[73, 73, 64, 76, 74, 81, 74, 68, 72, 82]",C♯5 C♯5 E4 E5 D5 A5 D5 G♯4 C5 A♯5
+42,../dataset/grieg/grieg_zwerge.mid,"[75, 62, 66, 84, 61, 74, 50, 75, 62, 74, 74]",D♯5 D4 F♯4 C6 C♯4 D5 D3 D♯5 D4 D5 D5
+43,../dataset/grieg/grieg_once_upon_a_time.mid,"[71, 73, 62, 69, 68, 66, 54, 67, 72, 78, 76, 63, 67]",B4 C♯5 D4 A4 G♯4 F♯4 F♯3 G4 C5 F♯5 E5 D♯4 G4
+44,../dataset/grieg/grieg_waechter.mid,"[67, 67, 64, 59, 60, 75, 59, 65]",G4 G4 E4 B3 C4 D♯5 B3 F4
+45,../dataset/grieg/grieg_spring.mid,"[58, 76, 66, 74, 63, 74, 67, 66, 85, 75, 66, 71]",A♯3 E5 F♯4 D5 D♯4 D5 G4 F♯4 C♯6 D♯5 F♯4 B4
+46,../dataset/grieg/grieg_voeglein.mid,"[74, 80, 74, 81, 74, 49, 58, 67, 84, 72]",D5 G♯5 D5 A5 D5 C♯3 A♯3 G4 C6 C5
+47,../dataset/grieg/grieg_march.mid,"[72, 67, 73, 60, 67, 67, 50, 67, 60, 55, 84, 60, 52, 50, 71, 71, 53]",C5 G4 C♯5 C4 G4 G4 D3 G4 C4 G3 C6 C4 E3 D3 B4 B4 F3
+48,../dataset/grieg/grieg_kobold.mid,"[71, 52, 73, 49, 63, 47, 63, 69, 68, 54, 71]",B4 E3 C♯5 C♯3 D♯4 B2 D♯4 A4 G♯4 F♯3 B4
+49,../dataset/grieg/grieg_wedding.mid,"[67, 73, 63, 78, 47, 75, 64, 76, 51, 79, 74, 77, 71, 74, 73]",G4 C♯5 D♯4 F♯5 B2 D♯5 E4 E5 D♯3 G5 D5 F5 B4 D5 C♯5
+50,../dataset/grieg/grieg_album.mid,"[76, 69, 72, 61, 67, 65, 81, 71, 82, 79, 69, 82, 67, 74, 89, 67, 64, 84]",E5 A4 C5 C♯4 G4 F4 A5 B4 A♯5 G5 A4 A♯5 G4 D5 F6 G4 E4 C6
+51,../dataset/grieg/grieg_brooklet.mid,"[74, 72, 59, 76, 71, 61, 66, 62, 72, 71]",D5 C5 B3 E5 B4 C♯4 F♯4 D4 C5 B4
+52,../dataset/grieg/grieg_walzer.mid,"[64, 70, 67, 64, 64, 74, 69, 64, 63, 71, 72, 69, 64, 68, 65, 62, 69]",E4 A♯4 G4 E4 E4 D5 A4 E4 D♯4 B4 C5 A4 E4 G♯4 F4 D4 A4
+53,../dataset/haydn/hay_40_1.mid,"[74, 67, 70, 77, 72, 69, 83, 73, 62, 69, 59, 69, 76, 80, 76]",D5 G4 A♯4 F5 C5 A4 B5 C♯5 D4 A4 B3 A4 E5 G♯5 E5
+54,../dataset/haydn/hay_40_2.mid,"[74, 67, 66, 71, 86, 71, 77, 75, 68, 64, 75, 83, 74]",D5 G4 F♯4 B4 D6 B4 F5 D♯5 G♯4 E4 D♯5 B5 D5
+55,../dataset/haydn/haydn_43_2.mid,"[75, 74, 73, 74, 72, 68, 72, 75, 71, 73, 72, 73]",D♯5 D5 C♯5 D5 C5 G♯4 C5 D♯5 B4 C♯5 C5 C♯5
+56,../dataset/haydn/haydn_33_1.mid,"[73, 68, 75, 54, 63, 66, 82, 62, 60, 67, 61, 70, 74, 83, 68, 67, 78, 74]",C♯5 G♯4 D♯5 F♯3 D♯4 F♯4 A♯5 D4 C4 G4 C♯4 A♯4 D5 B5 G♯4 G4 F♯5 D5
+57,../dataset/haydn/haydn_43_3.mid,"[74, 71, 64, 70, 68, 66, 74, 76, 78, 73, 76, 69, 73, 76]",D5 B4 E4 A♯4 G♯4 F♯4 D5 E5 F♯5 C♯5 E5 A4 C♯5 E5
+58,../dataset/haydn/haydn_35_1.mid,"[72, 77, 73, 63, 74, 83, 68, 76, 74, 81, 72, 82, 60, 85, 72]",C5 F5 C♯5 D♯4 D5 B5 G♯4 E5 D5 A5 C5 A♯5 C4 C♯6 C5
+59,../dataset/haydn/haydn_35_3.mid,"[76, 83, 69, 76, 79, 83, 81, 74, 78, 84]",E5 B5 A4 E5 G5 B5 A5 D5 F♯5 C6
+60,../dataset/haydn/haydn_7_2.mid,"[76, 75, 72, 67, 75, 74, 72, 72, 81, 67, 72, 70, 75, 77, 76]",E5 D♯5 C5 G4 D♯5 D5 C5 C5 A5 G4 C5 A♯4 D♯5 F5 E5
+61,../dataset/haydn/haydn_33_2.mid,"[75, 76, 70, 67, 67, 71, 62, 75, 83, 68, 69, 84, 78]",D♯5 E5 A♯4 G4 G4 B4 D4 D♯5 B5 G♯4 A4 C6 F♯5
+62,../dataset/haydn/haydn_35_2.mid,"[57, 74, 81, 74, 64, 79, 76, 79, 57, 81, 72, 82, 74, 82, 79, 78, 77, 70, 72, 70]",A3 D5 A5 D5 E4 G5 E5 G5 A3 A5 C5 A♯5 D5 A♯5 G5 F♯5 F5 A♯4 C5 A♯4
+63,../dataset/haydn/haydn_33_3.mid,"[69, 76, 72, 79, 74, 74, 74, 74, 77, 72, 77, 74, 79]",A4 E5 C5 G5 D5 D5 D5 D5 F5 C5 F5 D5 G5
+64,../dataset/liszt/liz_et5.mid,"[73, 86, 75, 77, 70, 92, 58, 78, 73, 95, 63, 81, 87, 70, 81, 63, 59, 60, 62, 71]",C♯5 D6 D♯5 F5 A♯4 G♯6 A♯3 F♯5 C♯5 B6 D♯4 A5 D♯6 A♯4 A5 D♯4 B3 C4 D4 B4
+65,../dataset/liszt/liz_et1.mid,"[66, 60, 70, 50, 80, 83, 84, 83, 70, 103, 63, 46, 60, 69, 91, 65, 98, 67]",F♯4 C4 A♯4 D3 G♯5 B5 C6 B5 A♯4 G7 D♯4 A♯2 C4 A4 G6 F4 D7 G4
+66,../dataset/liszt/liz_et4.mid,"[76, 86, 73, 86, 74, 77, 86, 74, 68, 64, 68, 70, 68, 67, 65, 68, 65, 74]",E5 D6 C♯5 D6 D5 F5 D6 D5 G♯4 E4 G♯4 A♯4 G♯4 G4 F4 G♯4 F4 D5
+67,../dataset/liszt/liz_et_trans5.mid,"[78, 77, 91, 79, 61, 80, 53, 78, 99, 79, 78, 84, 76, 71, 96, 86, 90, 86, 83, 78]",F♯5 F5 G6 G5 C♯4 G♯5 F3 F♯5 D♯7 G5 F♯5 C6 E5 B4 C7 D6 F♯6 D6 B5 F♯5
+68,../dataset/mendelssohn/mendel_op19_5.mid,"[61, 71, 65, 66, 78, 73, 70, 67, 70, 66, 67, 70, 58, 68, 63]",C♯4 B4 F4 F♯4 F♯5 C♯5 A♯4 G4 A♯4 F♯4 G4 A♯4 A♯3 G♯4 D♯4
+69,../dataset/mendelssohn/mendel_op30_3.mid,"[67, 66, 64, 61, 64, 68, 61, 66, 66]",G4 F♯4 E4 C♯4 E4 G♯4 C♯4 F♯4 F♯4
+70,../dataset/mendelssohn/mendel_op30_4.mid,"[70, 68, 64, 73, 68, 66, 69, 72, 65, 70, 72]",A♯4 G♯4 E4 C♯5 G♯4 F♯4 A4 C5 F4 A♯4 C5
+71,../dataset/mendelssohn/mendel_op53_5.mid,"[70, 64, 65, 67, 64, 67, 72, 65, 59, 73, 58, 68, 65, 64]",A♯4 E4 F4 G4 E4 G4 C5 F4 B3 C♯5 A♯3 G♯4 F4 E4
+72,../dataset/mendelssohn/mendel_op19_3.mid,"[78, 75, 66, 64, 59, 75, 75, 64, 67, 57, 79, 80, 64, 76, 80]",F♯5 D♯5 F♯4 E4 B3 D♯5 D♯5 E4 G4 A3 G5 G♯5 E4 E5 G♯5
+73,../dataset/mendelssohn/mendel_op62_5.mid,"[69, 72, 67, 61, 52, 72, 76, 61, 67, 74]",A4 C5 G4 C♯4 E3 C5 E5 C♯4 G4 D5
+74,../dataset/mendelssohn/mendel_op19_2.mid,"[76, 71, 69, 67, 57, 72, 57, 68, 73, 78, 57, 72, 76, 72]",E5 B4 A4 G4 A3 C5 A3 G♯4 C♯5 F♯5 A3 C5 E5 C5
+75,../dataset/mendelssohn/mendel_op19_4.mid,"[70, 62, 59, 73, 71, 73, 74, 66, 64, 68, 65]",A♯4 D4 B3 C♯5 B4 C♯5 D5 F♯4 E4 G♯4 F4
+76,../dataset/mendelssohn/mendel_op30_2.mid,"[69, 70, 65, 72, 65, 68, 64, 68, 59, 70, 65, 65]",A4 A♯4 F4 C5 F4 G♯4 E4 G♯4 B3 A♯4 F4 F4
+77,../dataset/mendelssohn/mendel_op30_5.mid,"[66, 68, 70, 74, 73, 62, 77, 71, 65]",F♯4 G♯4 A♯4 D5 C♯5 D4 F5 B4 F4
+78,../dataset/mendelssohn/mendel_op62_3.mid,"[68, 68, 59, 63, 65, 70, 66, 76]",G♯4 G♯4 B3 D♯4 F4 A♯4 F♯4 E5
+79,../dataset/mendelssohn/mendel_op19_6.mid,"[68, 70, 70, 61, 62, 69, 62, 64, 74, 69, 74, 64, 61, 71, 74, 70]",G♯4 A♯4 A♯4 C♯4 D4 A4 D4 E4 D5 A4 D5 E4 C♯4 B4 D5 A♯4
+80,../dataset/mendelssohn/mendel_op30_1.mid,"[58, 63, 67, 65, 58, 66, 67, 60, 64, 55, 55, 89]",A♯3 D♯4 G4 F4 A♯3 F♯4 G4 C4 E4 G3 G3 F6
+81,../dataset/mendelssohn/mendel_op19_1.mid,"[69, 71, 67, 71, 67, 71, 71, 75]",A4 B4 G4 B4 G4 B4 B4 D♯5
+82,../dataset/beeth/waldstein_2.mid,"[68, 58, 57, 60, 76, 70, 70, 70, 57, 65, 62]",G♯4 A♯3 A3 C4 E5 A♯4 A♯4 A♯4 A3 F4 D4
+83,../dataset/beeth/beethoven_les_adieux_1.mid,"[74, 74, 74, 68, 61, 75, 70, 81, 63, 58, 73, 63, 55, 53, 82, 78, 58, 83, 80, 68]",D5 D5 D5 G♯4 C♯4 D♯5 A♯4 A5 D♯4 A♯3 C♯5 D♯4 G3 F3 A♯5 F♯5 A♯3 B5 G♯5 G♯4
+84,../dataset/beeth/beethoven_opus22_3.mid,"[62, 71, 81, 65, 75, 72, 62, 71, 72, 73, 74, 57, 77, 71, 68]",D4 B4 A5 F4 D♯5 C5 D4 B4 C5 C♯5 D5 A3 F5 B4 G♯4
+85,../dataset/beeth/appass_2.mid,"[69, 83, 49, 68, 61, 68, 55, 51, 80, 57]",A4 B5 C♯3 G♯4 C♯4 G♯4 G3 D♯3 G♯5 A3
+86,../dataset/beeth/pathetique_2.mid,"[68, 67, 68, 55, 64, 77, 69, 60, 69, 56]",G♯4 G4 G♯4 G3 E4 F5 A4 C4 A4 G♯3
+87,../dataset/beeth/beethoven_opus90_2.mid,"[74, 78, 73, 75, 72, 69, 72, 78, 68, 75, 85, 75, 72]",D5 F♯5 C♯5 D♯5 C5 A4 C5 F♯5 G♯4 D♯5 C♯6 D♯5 C5
+88,../dataset/beeth/beethoven_les_adieux_2.mid,"[74, 72, 67, 70, 73, 70, 82, 73, 84, 64, 61, 75, 56, 76, 65, 85, 77]",D5 C5 G4 A♯4 C♯5 A♯4 A♯5 C♯5 C6 E4 C♯4 D♯5 G♯3 E5 F4 C♯6 F5
+89,../dataset/beeth/waldstein_3.mid,"[73, 69, 58, 58, 83, 59, 52, 88, 91, 65, 79, 65, 91, 72, 66, 73, 79, 71, 80, 72, 79, 68]",C♯5 A4 A♯3 A♯3 B5 B3 E3 E6 G6 F4 G5 F4 G6 C5 F♯4 C♯5 G5 B4 G♯5 C5 G5 G♯4
+90,../dataset/beeth/beethoven_opus10_1.mid,"[70, 73, 70, 63, 70, 79, 78, 54, 67, 70, 59, 65, 65, 74, 57, 67]",A♯4 C♯5 A♯4 D♯4 A♯4 G5 F♯5 F♯3 G4 A♯4 B3 F4 F4 D5 A3 G4
+91,../dataset/beeth/beethoven_opus22_2.mid,"[69, 51, 65, 50, 75, 65, 67, 69, 71, 80, 75, 68, 57, 59, 72, 53, 67, 71, 64]",A4 D♯3 F4 D3 D♯5 F4 G4 A4 B4 G♯5 D♯5 G♯4 A3 B3 C5 F3 G4 B4 E4
+92,../dataset/beeth/waldstein_1.mid,"[75, 71, 85, 86, 67, 83, 73, 74, 83, 77, 62, 64, 53, 66, 79, 88, 68, 79, 80, 75, 72]",D♯5 B4 C♯6 D6 G4 B5 C♯5 D5 B5 F5 D4 E4 F3 F♯4 G5 E6 G♯4 G5 G♯5 D♯5 C5
+93,../dataset/beeth/beethoven_opus22_1.mid,"[70, 76, 58, 62, 67, 75, 74, 60, 80, 84, 65, 82, 59, 75, 64, 60, 68, 77, 68, 68, 67]",A♯4 E5 A♯3 D4 G4 D♯5 D5 C4 G♯5 C6 F4 A♯5 B3 D♯5 E4 C4 G♯4 F5 G♯4 G♯4 G4
+94,../dataset/beeth/beethoven_les_adieux_3.mid,"[77, 70, 70, 91, 68, 82, 84, 72, 74, 73, 94, 87, 72, 78, 78, 74, 74]",F5 A♯4 A♯4 G6 G♯4 A♯5 C6 C5 D5 C♯5 A♯6 D♯6 C5 F♯5 F♯5 D5 D5
+95,../dataset/beeth/pathetique_1.mid,"[73, 65, 77, 68, 63, 77, 72, 71, 84, 70, 71, 71, 60, 59, 63, 66, 75, 63, 69]",C♯5 F4 F5 G♯4 D♯4 F5 C5 B4 C6 A♯4 B4 B4 C4 B3 D♯4 F♯4 D♯5 D♯4 A4
+96,../dataset/beeth/mond_3.mid,"[73, 63, 55, 76, 76, 82, 58, 79, 71, 69, 76, 76, 64, 70, 65, 61, 67, 68, 49, 66, 72]",C♯5 D♯4 G3 E5 E5 A♯5 A♯3 G5 B4 A4 E5 E5 E4 A♯4 F4 C♯4 G4 G♯4 C♯3 F♯4 C5
+97,../dataset/beeth/beethoven_hammerklavier_2.mid,"[72, 75, 78, 75, 73, 66, 75, 73, 74, 76, 67, 70, 73, 65, 72, 74, 59, 86]",C5 D♯5 F♯5 D♯5 C♯5 F♯4 D♯5 C♯5 D5 E5 G4 A♯4 C♯5 F4 C5 D5 B3 D6
+98,../dataset/beeth/beethoven_opus10_3.mid,"[71, 48, 65, 71, 60, 63, 60, 48, 63, 53, 73, 60, 60, 62, 57, 66, 67, 71, 54, 55]",B4 C3 F4 B4 C4 D♯4 C4 C3 D♯4 F3 C♯5 C4 C4 D4 A3 F♯4 G4 B4 F♯3 G3
+99,../dataset/beeth/appass_3.mid,"[73, 69, 69, 67, 61, 64, 63, 84, 67, 48, 57, 61, 55, 61, 66, 71, 59, 73, 83, 47, 69, 71]",C♯5 A4 A4 G4 C♯4 E4 D♯4 C6 G4 C3 A3 C♯4 G3 C♯4 F♯4 B4 B3 C♯5 B5 B2 A4 B4
+100,../dataset/albeniz/alb_esp4.mid,"[72, 69, 70, 68, 71, 72, 78, 77, 77]",C5 A4 A♯4 G♯4 B4 C5 F♯5 F5 F5
+101,../dataset/albeniz/alb_se5.mid,"[71, 69, 69, 86, 66, 71, 63, 70, 63, 90]",B4 A4 A4 D6 F♯4 B4 D♯4 A♯4 D♯4 F♯6
+102,../dataset/albeniz/alb_se4.mid,"[72, 68, 64, 93, 71, 69, 74, 77, 80, 63, 66, 70]",C5 G♯4 E4 A6 B4 A4 D5 F5 G♯5 D♯4 F♯4 A♯4
+103,../dataset/albeniz/alb_esp2.mid,"[69, 57, 73, 57, 71, 61, 67, 65, 76, 69]",A4 A3 C♯5 A3 B4 C♯4 G4 F4 E5 A4
+104,../dataset/albeniz/alb_se3.mid,"[74, 62, 75, 72, 84, 74, 85, 84, 69, 57, 59, 70]",D5 D4 D♯5 C5 C6 D5 C♯6 C6 A4 A3 B3 A♯4
+105,../dataset/albeniz/alb_se6.mid,"[76, 65, 76, 68, 86, 77, 70, 71, 74, 81, 65, 82, 68, 68]",E5 F4 E5 G♯4 D6 F5 A♯4 B4 D5 A5 F4 A♯5 G♯4 G♯4
+106,../dataset/albeniz/alb_esp1.mid,"[78, 58, 66, 64, 61, 72, 61, 70]",F♯5 A♯3 F♯4 E4 C♯4 C5 C♯4 A♯4
+107,../dataset/albeniz/alb_se1.mid,"[75, 77, 55, 84, 57, 53, 57, 72, 81, 70, 78]",D♯5 F5 G3 C6 A3 F3 A3 C5 A5 A♯4 F♯5
+108,../dataset/albeniz/alb_se7.mid,"[75, 74, 57, 66, 60, 90, 73, 90, 65, 69, 56, 77, 67]",D♯5 D5 A3 F♯4 C4 F♯6 C♯5 F♯6 F4 A4 G♯3 F5 G4
+109,../dataset/albeniz/alb_esp3.mid,"[79, 76, 94, 63, 65, 75, 66, 64, 74, 78, 87, 77, 69, 73, 95]",G5 E5 A♯6 D♯4 F4 D♯5 F♯4 E4 D5 F♯5 D♯6 F5 A4 C♯5 B6
+110,../dataset/mozart/mz_331_3.mid,"[71, 78, 73, 86, 72, 79, 76, 79, 78, 77, 69, 74, 73, 85, 74, 82, 75]",B4 F♯5 C♯5 D6 C5 G5 E5 G5 F♯5 F5 A4 D5 C♯5 C♯6 D5 A♯5 D♯5
+111,../dataset/mozart/mz_570_2.mid,"[74, 70, 70, 82, 75, 74, 75, 73, 73, 76, 77, 74, 79, 76]",D5 A♯4 A♯4 A♯5 D♯5 D5 D♯5 C♯5 C♯5 E5 F5 D5 G5 E5
+112,../dataset/mozart/mz_330_3.mid,"[76, 74, 67, 76, 67, 77, 70, 70, 78, 71, 79, 77, 68, 75, 74, 77, 81, 76]",E5 D5 G4 E5 G4 F5 A♯4 A♯4 F♯5 B4 G5 F5 G♯4 D♯5 D5 F5 A5 E5
+113,../dataset/mozart/mz_545_3.mid,"[80, 75, 79, 73, 64, 77, 74, 73, 76, 75, 77, 74, 79]",G♯5 D♯5 G5 C♯5 E4 F5 D5 C♯5 E5 D♯5 F5 D5 G5
+114,../dataset/mozart/mz_332_1.mid,"[73, 75, 77, 81, 64, 80, 67, 68, 79, 67, 67, 72, 73, 66, 72, 74, 74, 74, 71]",C♯5 D♯5 F5 A5 E4 G♯5 G4 G♯4 G5 G4 G4 C5 C♯5 F♯4 C5 D5 D5 D5 B4
+115,../dataset/mozart/mz_333_1.mid,"[75, 74, 79, 61, 72, 80, 74, 69, 78, 71, 79, 75, 75, 67, 76, 76, 74, 78]",D♯5 D5 G5 C♯4 C5 G♯5 D5 A4 F♯5 B4 G5 D♯5 D♯5 G4 E5 E5 D5 F♯5
+116,../dataset/mozart/mz_311_1.mid,"[75, 75, 86, 78, 77, 82, 79, 74, 79, 79, 77, 77, 80, 73, 78, 76, 77, 75, 75, 73]",D♯5 D♯5 D6 F♯5 F5 A♯5 G5 D5 G5 G5 F5 F5 G♯5 C♯5 F♯5 E5 F5 D♯5 D♯5 C♯5
+117,../dataset/mozart/mz_333_2.mid,"[73, 70, 68, 72, 71, 68, 67, 72, 72, 80, 76, 71, 70, 68, 68, 75, 72, 63, 70, 74]",C♯5 A♯4 G♯4 C5 B4 G♯4 G4 C5 C5 G♯5 E5 B4 A♯4 G♯4 G♯4 D♯5 C5 D♯4 A♯4 D5
+118,../dataset/mozart/mz_330_1.mid,"[76, 79, 80, 77, 82, 72, 78, 77, 73, 74, 67, 77, 69, 77, 74, 76, 69, 74, 76, 76]",E5 G5 G♯5 F5 A♯5 C5 F♯5 F5 C♯5 D5 G4 F5 A4 F5 D5 E5 A4 D5 E5 E5
+119,../dataset/mozart/mz_545_1.mid,"[76, 75, 82, 78, 72, 74, 78, 76, 76, 74]",E5 D♯5 A♯5 F♯5 C5 D5 F♯5 E5 E5 D5
+120,../dataset/mozart/mz_545_2.mid,"[72, 76, 75, 72, 72, 72, 74, 70, 73, 73, 76, 73, 75]",C5 E5 D♯5 C5 C5 C5 D5 A♯4 C♯5 C♯5 E5 C♯5 D♯5
+121,../dataset/mozart/mz_330_2.mid,"[71, 74, 70, 74, 58, 73, 70, 68, 70, 72, 70, 64, 67]",B4 D5 A♯4 D5 A♯3 C♯5 A♯4 G♯4 A♯4 C5 A♯4 E4 G4
+122,../dataset/mozart/mz_311_2.mid,"[75, 71, 72, 67, 67, 68, 73, 81, 78, 74, 69, 78, 76, 71]",D♯5 B4 C5 G4 G4 G♯4 C♯5 A5 F♯5 D5 A4 F♯5 E5 B4
+123,../dataset/mozart/mz_570_1.mid,"[75, 68, 76, 77, 82, 83, 80, 78, 74, 74, 72, 72, 67, 65, 74, 69, 73, 78, 78, 75]",D♯5 G♯4 E5 F5 A♯5 B5 G♯5 F♯5 D5 D5 C5 C5 G4 F4 D5 A4 C♯5 F♯5 F♯5 D♯5
+124,../dataset/mozart/mz_570_3.mid,"[74, 71, 77, 79, 83, 76, 70, 75, 70, 71, 75, 70, 78, 77]",D5 B4 F5 G5 B5 E5 A♯4 D♯5 A♯4 B4 D♯5 A♯4 F♯5 F5
+125,../dataset/mozart/mz_332_3.mid,"[74, 73, 70, 69, 64, 70, 72, 62, 74, 74, 72, 73, 62, 76, 72, 72, 69, 68]",D5 C♯5 A♯4 A4 E4 A♯4 C5 D4 D5 D5 C5 C♯5 D4 E5 C5 C5 A4 G♯4
+126,../dataset/brahms/brahms_opus117_2.mid,"[68, 73, 72, 60, 60, 74, 59, 74, 73, 68, 61, 67, 71, 85, 76]",G♯4 C♯5 C5 C4 C4 D5 B3 D5 C♯5 G♯4 C♯4 G4 B4 C♯6 E5
+127,../dataset/brahms/br_im5.mid,"[70, 58, 76, 80, 77, 71, 64, 76]",A♯4 A♯3 E5 G♯5 F5 B4 E4 E5
+128,../dataset/brahms/br_rhap.mid,"[73, 101, 63, 58, 60, 67, 87, 98, 70, 73, 75, 60, 66, 71, 78, 79, 74, 86, 71, 71, 79, 69]",C♯5 F7 D♯4 A♯3 C4 G4 D♯6 D7 A♯4 C♯5 D♯5 C4 F♯4 B4 F♯5 G5 D5 D6 B4 B4 G5 A4
+129,../dataset/brahms/brahms_opus117_1.mid,"[70, 63, 75, 73, 70, 70, 67, 70, 70, 63]",A♯4 D♯4 D♯5 C♯5 A♯4 A♯4 G4 A♯4 A♯4 D♯4
+130,../dataset/tschai/ty_mai.mid,"[70, 62, 65, 71, 60, 61, 62, 62, 68, 62, 69]",A♯4 D4 F4 B4 C4 C♯4 D4 D4 G♯4 D4 A4
+131,../dataset/tschai/ty_november.mid,"[72, 69, 79, 78, 80, 57, 60, 77, 74, 78, 50, 82, 62, 60, 67, 68]",C5 A4 G5 F♯5 G♯5 A3 C4 F5 D5 F♯5 D3 A♯5 D4 C4 G4 G♯4
+132,../dataset/tschai/ty_dezember.mid,"[69, 72, 76, 75, 75, 72, 73, 77, 60, 76, 72, 68, 68, 77]",A4 C5 E5 D♯5 D♯5 C5 C♯5 F5 C4 E5 C5 G♯4 G♯4 F5
+133,../dataset/tschai/ty_september.mid,"[76, 65, 82, 67, 72, 75, 71, 75, 72, 82, 79, 73]",E5 F4 A♯5 G4 C5 D♯5 B4 D♯5 C5 A♯5 G5 C♯5
+134,../dataset/tschai/ty_maerz.mid,"[71, 66, 74, 60, 73, 67, 62, 67, 72, 72, 69]",B4 F♯4 D5 C4 C♯5 G4 D4 G4 C5 C5 A4
+135,../dataset/tschai/ty_oktober.mid,"[71, 68, 65, 57, 57, 73, 62, 65, 78, 68]",B4 G♯4 F4 A3 A3 C♯5 D4 F4 F♯5 G♯4
+136,../dataset/tschai/ty_juli.mid,"[70, 75, 63, 74, 66, 79, 70, 76, 64, 64]",A♯4 D♯5 D♯4 D5 F♯4 G5 A♯4 E5 E4 E4
+137,../dataset/tschai/ty_juni.mid,"[71, 70, 59, 88, 71, 63, 62, 73, 72, 81, 74, 77, 66, 64, 84]",B4 A♯4 B3 E6 B4 D♯4 D4 C♯5 C5 A5 D5 F5 F♯4 E4 C6
+138,../dataset/tschai/ty_august.mid,"[66, 72, 58, 73, 64, 66, 62, 63, 66, 73, 66, 64, 70, 73]",F♯4 C5 A♯3 C♯5 E4 F♯4 D4 D♯4 F♯4 C♯5 F♯4 E4 A♯4 C♯5
+139,../dataset/tschai/ty_januar.mid,"[69, 66, 72, 76, 66, 53, 59, 55, 54, 64, 64, 75, 63, 67, 67, 63, 59, 56, 64, 73]",A4 F♯4 C5 E5 F♯4 F3 B3 G3 F♯3 E4 E4 D♯5 D♯4 G4 G4 D♯4 B3 G♯3 E4 C♯5
+140,../dataset/tschai/ty_april.mid,"[66, 57, 69, 70, 66, 64, 61, 71, 64]",F♯4 A3 A4 A♯4 F♯4 E4 C♯4 B4 E4
+141,../dataset/tschai/ty_februar.mid,"[72, 79, 70, 51, 61, 75, 62, 79, 64, 62, 50, 75, 71, 72, 73]",C5 G5 A♯4 D♯3 C♯4 D♯5 D4 G5 E4 D4 D3 D♯5 B4 C5 C♯5
+142,../dataset/debussy/debussy_cc_4.mid,"[76, 78, 58, 82, 70, 63, 68, 72, 82, 75, 74, 71, 79, 68]",E5 F♯5 A♯3 A♯5 A♯4 D♯4 G♯4 C5 A♯5 D♯5 D5 B4 G5 G♯4
+143,../dataset/debussy/debussy_cc_1.mid,"[65, 62, 60, 70, 64, 52, 69, 36, 77, 72, 66, 69]",F4 D4 C4 A♯4 E4 E3 A4 C2 F5 C5 F♯4 A4
+144,../dataset/debussy/debussy_cc_2.mid,"[61, 58, 53, 41, 61, 46, 64, 58, 68, 79, 57, 54, 60, 53, 53, 52, 54, 57, 41]",C♯4 A♯3 F3 F2 C♯4 A♯2 E4 A♯3 G♯4 G5 A3 F♯3 C4 F3 F3 E3 F♯3 A3 F2
+145,../dataset/debussy/deb_prel.mid,"[72, 48, 72, 50, 85, 72, 74, 77, 72, 52, 85, 76, 74, 70, 57, 78, 69, 56, 65]",C5 C3 C5 D3 C♯6 C5 D5 F5 C5 E3 C♯6 E5 D5 A♯4 A3 F♯5 A4 G♯3 F4
+146,../dataset/schumann/scn15_7.mid,"[69, 60, 54, 81, 71, 73, 69, 82, 60, 61, 76, 76]",A4 C4 F♯3 A5 B4 C♯5 A4 A♯5 C4 C♯4 E5 E5
+147,../dataset/schumann/scn16_8.mid,"[64, 64, 53, 62, 69, 63, 65, 67, 62, 67, 63, 62]",E4 E4 F3 D4 A4 D♯4 F4 G4 D4 G4 D♯4 D4
+148,../dataset/schumann/scn16_7.mid,"[69, 62, 65, 60, 67, 71, 66, 61, 58, 60, 65, 60]",A4 D4 F4 C4 G4 B4 F♯4 C♯4 A♯3 C4 F4 C4
+149,../dataset/schumann/scn15_2.mid,"[70, 62, 65, 72, 62, 69, 75, 69, 65]",A♯4 D4 F4 C5 D4 A4 D♯5 A4 F4
+150,../dataset/schumann/scn15_8.mid,"[68, 72, 64, 72, 70, 62, 65, 58]",G♯4 C5 E4 C5 A♯4 D4 F4 A♯3
+151,../dataset/schumann/scn15_13.mid,"[69, 64, 64, 70, 64, 65, 61, 70, 62, 64, 62]",A4 E4 E4 A♯4 E4 F4 C♯4 A♯4 D4 E4 D4
+152,../dataset/schumann/scn16_2.mid,"[58, 68, 57, 59, 55, 58, 67, 70, 79, 71, 57, 71, 58, 62, 57, 65]",A♯3 G♯4 A3 B3 G3 A♯3 G4 A♯4 G5 B4 A3 B4 A♯3 D4 A3 F4
+153,../dataset/schumann/scn16_5.mid,"[65, 69, 55, 70, 74, 51, 64, 71, 76, 68, 59, 55, 67, 60]",F4 A4 G3 A♯4 D5 D♯3 E4 B4 E5 G♯4 B3 G3 G4 C4
+154,../dataset/schumann/scn15_11.mid,"[68, 72, 78, 72, 71, 67, 60, 77, 71]",G♯4 C5 F♯5 C5 B4 G4 C4 F5 B4
+155,../dataset/schumann/scn16_6.mid,"[66, 61, 55, 58, 53, 61, 74, 62, 65, 65, 66, 67, 70, 62]",F♯4 C♯4 G3 A♯3 F3 C♯4 D5 D4 F4 F4 F♯4 G4 A♯4 D4
+156,../dataset/borodin/bor_ps6.mid,"[64, 54, 63, 68, 65, 65, 61, 62]",E4 F♯3 D♯4 G♯4 F4 F4 C♯4 D4
+157,../dataset/borodin/bor_ps3.mid,"[67, 72, 67, 72, 79, 73, 74, 76, 73]",G4 C5 G4 C5 G5 C♯5 D5 E5 C♯5
+158,../dataset/borodin/bor_ps5.mid,"[66, 68, 68, 58, 55, 54, 77, 61, 65, 73, 69]",F♯4 G♯4 G♯4 A♯3 G3 F♯3 F5 C♯4 F4 C♯5 A4
+159,../dataset/borodin/bor_ps4.mid,"[59, 69, 65, 71, 66, 64, 73, 66, 71]",B3 A4 F4 B4 F♯4 E4 C♯5 F♯4 B4
+160,../dataset/borodin/bor_ps2.mid,"[71, 63, 65, 58, 55, 64, 67, 68, 55, 65, 63]",B4 D♯4 F4 A♯3 G3 E4 G4 G♯4 G3 F4 D♯4
+161,../dataset/borodin/bor_ps1.mid,"[75, 78, 74, 60, 76, 82, 61, 61, 55, 68, 73, 75, 60, 71]",D♯5 F♯5 D5 C4 E5 A♯5 C♯4 C♯4 G3 G♯4 C♯5 D♯5 C4 B4
+162,../dataset/burgm/burg_erwachen.mid,"[74, 69, 69, 65, 77, 65, 74, 77, 80]",D5 A4 A4 F4 F5 F4 D5 F5 G♯5
+163,../dataset/burgm/burg_perlen.mid,"[76, 74, 67, 55, 76, 85, 93, 90, 68, 80, 83]",E5 D5 G4 G3 E5 C♯6 A6 F♯6 G♯4 G♯5 B5
+164,../dataset/burgm/burg_sylphen.mid,"[71, 71, 69, 75, 65, 75, 83, 65, 66, 65, 66]",B4 B4 A4 D♯5 F4 D♯5 B5 F4 F♯4 F4 F♯4
+165,../dataset/burgm/burg_geschwindigkeit.mid,"[83, 53, 85, 57, 62, 64, 66, 70]",B5 F3 C♯6 A3 D4 E4 F♯4 A♯4
+166,../dataset/burgm/burg_spinnerlied.mid,"[69, 83, 62, 70, 69, 75, 55, 74, 55, 71, 56, 55, 54]",A4 B5 D4 A♯4 A4 D♯5 G3 D5 G3 B4 G♯3 G3 F♯3
+167,../dataset/burgm/burg_gewitter.mid,"[60, 51, 53, 53, 45, 54, 56, 75]",C4 D♯3 F3 F3 A2 F♯3 G♯3 D♯5
+168,../dataset/burgm/burg_agitato.mid,"[75, 79, 67, 62, 79, 79, 52, 59, 66]",D♯5 G5 G4 D4 G5 G5 E3 B3 F♯4
+169,../dataset/burgm/burg_trennung.mid,"[63, 68, 63, 65, 70, 68, 67, 67]",D♯4 G♯4 D♯4 F4 A♯4 G♯4 G4 G4
+170,../dataset/muss/muss_5.mid,"[80, 67, 67, 89, 81, 81, 83, 83, 69, 73, 91, 88, 68, 61, 77]",G♯5 G4 G4 F6 A5 A5 B5 B5 A4 C♯5 G6 E6 G♯4 C♯4 F5
+171,../dataset/muss/muss_1.mid,"[70, 67, 67, 61, 68, 89, 63, 59, 70, 67, 70, 67, 78, 75, 69, 65, 60, 56, 76, 59, 57]",A♯4 G4 G4 C♯4 G♯4 F6 D♯4 B3 A♯4 G4 A♯4 G4 F♯5 D♯5 A4 F4 C4 G♯3 E5 B3 A3
+172,../dataset/muss/muss_7.mid,"[66, 67, 74, 70, 67, 75, 76, 75, 79, 69, 67, 71, 65]",F♯4 G4 D5 A♯4 G4 D♯5 E5 D♯5 G5 A4 G4 B4 F4
+173,../dataset/muss/muss_3.mid,"[74, 56, 66, 74, 75, 78, 70, 75, 76, 75, 54]",D5 G♯3 F♯4 D5 D♯5 F♯5 A♯4 D♯5 E5 D♯5 F♯3
+174,../dataset/muss/muss_6.mid,"[69, 57, 65, 74, 58, 74, 64, 73, 74, 73, 66, 69, 71, 65, 58, 81, 78]",A4 A3 F4 D5 A♯3 D5 E4 C♯5 D5 C♯5 F♯4 A4 B4 F4 A♯3 A5 F♯5
+175,../dataset/muss/muss_2.mid,"[69, 49, 67, 79, 55, 51, 68, 81, 68, 63, 64, 65, 63, 55, 65, 65, 66, 70, 63, 71]",A4 C♯3 G4 G5 G3 D♯3 G♯4 A5 G♯4 D♯4 E4 F4 D♯4 G3 F4 F4 F♯4 A♯4 D♯4 B4
