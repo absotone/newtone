@@ -8,3 +8,5 @@ torch==1.11.0
 torch-tb-profiler==0.4.0
 torchaudio==0.11.0
 torchvision==0.12.0
+musicalbeeps==0.2.9
+
